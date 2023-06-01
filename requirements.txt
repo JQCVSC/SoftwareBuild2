@@ -1,1 +1,2 @@
-# Empty requirements.txt file
+flake8
+
